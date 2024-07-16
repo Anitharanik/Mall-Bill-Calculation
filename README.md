@@ -16,11 +16,13 @@ The script will display the discount applied (if any), the bill for each floor, 
 
 # Sample Output:
 Enter the number of floors: 3
+
 Enter the bill amount for floor 1: 15000
 Enter the bill amount for floor 2: 20000
 Enter the bill amount for floor 3: 20000
 
 A 20% discount of 11000.0 has been applied.
+
 Bill for floor 1: 15000.0
 Bill for floor 2: 20000.0
 Bill for floor 3: 20000.0
