@@ -30,5 +30,7 @@ Bill for floor 1: 15000.0
 Bill for floor 2: 20000.0
 
 Bill for floor 3: 20000.0
+
 Grand total after discount: 44000.0
+
 Congratulations! You qualify for a gift voucher.
